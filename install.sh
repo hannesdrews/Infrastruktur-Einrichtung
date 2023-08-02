@@ -16,5 +16,5 @@ sudo apt install -y default-jre;
 sudo apt install -y python3-pip;
 sudo apt install -y net-tools;
 pip install flask;
-git clone https://github.com/istichel/Infrastruktur-Einrichtung.git;
+git clone https://github.com/hannesdrews/Infrastruktur-Einrichtung.git;
 sudo shutdown -r now;
